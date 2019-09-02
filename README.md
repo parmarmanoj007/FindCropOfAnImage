@@ -1,8 +1,7 @@
 # FindCropOfAnImage
 Find Crop Of An Image
 
-#Images_crops_association
-Code is written in python language
+
 # packages needed:
 1) cv2(opencv) : All major task done using opencv like reading image ,
 template matching.
