@@ -25,7 +25,7 @@ around 99.9% or 100%, but still i am using threshold as 98%.
 main.py is the file where all code is written.
 we can run it from terminal with some parameters like folder location of full
 images and crops and also output json file name
-extract MAD.zip file
+
 # ##################
 $python main.py -c sample_testset/crops/ -f sample_testset/images/ -o
 out.json
